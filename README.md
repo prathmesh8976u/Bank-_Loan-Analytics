@@ -33,66 +33,46 @@ The project was developed as part of my Business Analyst internship using Excel,
 
 Analyzed loan amount trends across different years to understand changes in loan demand and portfolio growth.
 
-**Key Insight:**
-- Loan amounts show an increasing trend over the analyzed period.
-- Higher growth was observed during the later years of the analysis.
-
-**Business Recommendation:**
-- Increase loan approval capacity during high-demand periods.
-- Strengthen credit risk assessment to manage portfolio risk.
-- Use historical demand trends for better business planning.
+**Business Focus:**
+- Identify changes in loan demand over time
+- Monitor portfolio growth
+- Support lending capacity and business planning
 
 ### 2. Grade & Sub-grade vs. Revolving Balance
 
 Analyzed revolving balances across different loan grades and sub-grades to identify higher-risk customer segments.
 
-**Key Insight:**
-- Lower loan grades generally show higher revolving balances.
-- Higher loan grades generally demonstrate comparatively lower debt levels.
-
-**Business Recommendation:**
-- Apply stronger credit-risk controls to higher-risk segments.
-- Use risk-based lending strategies.
-- Monitor customers with higher revolving balances.
+**Business Focus:**
+- Identify higher-risk loan segments
+- Compare customer debt levels across grades
+- Support risk-based lending decisions
 
 ### 3. Verified vs. Non-Verified Payment Analysis
 
 Compared payment behavior between verified and non-verified customers.
 
-**Key Insight:**
-- Verified customers contribute a significant portion of total payments.
-- Verification status provides useful information for evaluating repayment behavior.
-
-**Business Recommendation:**
-- Strengthen KYC and document verification processes.
-- Encourage verification before loan approval.
-- Consider verification status along with other credit indicators.
+**Business Focus:**
+- Understand repayment behavior
+- Evaluate the relationship between verification and payment activity
+- Support stronger customer verification processes
 
 ### 4. State-wise & Month-wise Loan Analysis
 
 Analyzed loan activity across different states and months to identify regional and seasonal patterns.
 
-**Key Insight:**
-- Loan activity varies across different states.
-- Monthly trends provide useful information about changes in loan demand.
-
-**Business Recommendation:**
-- Focus business expansion on high-performing regions.
-- Monitor risk in regions with weaker loan performance.
-- Consider seasonal demand while planning resources and campaigns.
+**Business Focus:**
+- Identify high-performing regions
+- Understand monthly lending trends
+- Support regional planning and resource allocation
 
 ### 5. Home Ownership & Repayment Behaviour
 
-Analyzed customer repayment behavior based on home ownership status.
+Analyzed customer repayment behavior across different home ownership categories.
 
-**Key Insight:**
-- Home ownership provides an additional factor for understanding customer financial characteristics.
-- Repayment behavior varies across different home ownership categories.
-
-**Business Recommendation:**
-- Include home ownership as one factor in customer risk assessment.
-- Combine it with other financial and credit indicators.
-- Design suitable lending strategies for different customer segments.
+**Business Focus:**
+- Understand customer financial characteristics
+- Compare repayment patterns
+- Support customer segmentation and risk assessment
 
 ## 📊 Dashboard Preview
 
@@ -124,19 +104,33 @@ Analyzed customer repayment behavior based on home ownership status.
 - Tableau
 - Data Analysis
 - Data Visualization
-- Dashboard Development
 - KPI Analysis
+- Dashboard Development
 - Business Reporting
 
 ## 📁 Project Files
 
+### 📊 Dashboards & Analysis
+
 | File | Description |
 |---|---|
 | `Bank_Loan_Excel_Dashboard.xlsx` | Excel dashboard |
-| `Bank_Loan_KPI_Querries.sql` | SQL queries used for KPI analysis |
 | `Bank_Loan_PowerBI_Dashboard.pbix` | Power BI dashboard |
 | `Bank_Loan_Tableau_Dashboard.twbx` | Tableau dashboard |
 | `Bank_Loan_Tableau_Story.twbx` | Tableau story |
+| `Bank_Loan_KPI_Querries.sql` | SQL queries used for KPI analysis |
+
+### 🗃️ Source Data
+
+| File | Description |
+|---|---|
+| `Finance 1` | Original project source dataset |
+| `Finance 2` | Original project source dataset |
+
+### 📑 Documentation
+
+| File | Description |
+|---|---|
 | `Bank_Loan_Presentation.pptx` | Project presentation |
 
 ## 💡 Business Recommendations
@@ -147,9 +141,9 @@ Based on the analysis:
 - Monitor good-loan and bad-loan segments regularly.
 - Strengthen customer verification and KYC processes.
 - Apply stronger controls to higher-risk loan grades.
-- Use regional performance for better business planning.
-- Consider seasonal loan demand when planning campaigns.
-- Combine customer demographics, repayment behavior, and credit characteristics when evaluating customers.
+- Use regional performance to support business planning.
+- Consider seasonal loan demand when planning campaigns and resources.
+- Combine repayment behavior, credit characteristics, and customer information when evaluating loan applications.
 - Develop lending strategies according to customer risk profiles.
 
 ## 👨‍💻 Skills Demonstrated
@@ -157,17 +151,17 @@ Based on the analysis:
 - Business Analysis
 - Data Analysis
 - SQL
-- Data Cleaning
-- KPI Development
+- KPI Analysis
+- Data Visualization
 - Power BI
 - Microsoft Excel
 - Tableau
-- Data Visualization
 - Dashboard Development
 - Risk Analysis
 - Business Insights
+- Business Reporting
 - Data-driven Decision Making
 
 ## 📌 Project Context
 
-This project was completed as part of my Business Analyst internship and demonstrates practical experience in analyzing banking and lending data, developing dashboards, identifying business insights, and presenting recommendations for improved lending and risk management.
+This project was completed as part of my Business Analyst internship and demonstrates practical experience in analyzing banking and lending data, developing analytical dashboards, identifying business insights, and presenting recommendations to support lending and risk management decisions.
